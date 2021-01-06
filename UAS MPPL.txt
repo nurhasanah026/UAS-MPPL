@@ -1,5 +1,5 @@
 UAS MPPL
-
+Kelas : A
 Nama Kelompok :
 1. Nurhasanah (D1041181001)
 2. Suriati (D10411181006)
@@ -19,12 +19,12 @@ a. Manajemen risiko pada proyek meliputi langkah memahami dan mengidentifikasi m
 Risiko merupakan kombinasi dari kemungkinan suatu kejadian dan akiat dari kejadian tersebut dengan tidak menutup kemungkinan bahwa ada lebih dari satu akibat yang mungkin terjadi untuk satu kejadian tertentu. Pada umumnya risiko dipandang daru perspektif negatif, seperti kehilangan, bahaya, kerugian, kegagalan dan lain sebagainya. Hal-hal tersebut pada prinsipnya merupakan bentuk ketidak pastian yang mestinya dipahami dan dikelola secara efektif sehingga dapat menjadi nilai tambah bagi organisasi.
 Secara umum, tujuan manajemen risiko yang utama adalah mencegah atau meminimisasi pengaruh yang tidak baik akibat kejadian yang tidak terduga melalui penghindaran risiko atau persiapan rencana kontingensi yang berkaitan dengan risiko tersebut.  Dalam manajemen proyek risiko proyek adalah suatu peristiwa atau kondisi yang tidak pasti, dan jika terjadi mempunyai pengaruh positif atau bisa juga negatif pada tujuan proyek. Suatu risiko mempunyai sebab dan bila terjadi akan membawa dampak, oleh karena itu risiko dapat dinyatakan sebagai fungsi dari kemungkinan dan dampak.
 
-Ada dua metode dalam manajemen risiko. Pengendalian risiko dan pendanaan risiko adalah kedua metode tersebut. Kedua metode tersebut lalu terbagi lagi menjadi beberapa macam. Pengendalian risiko terbagi lagi menjadi lima macam, yaitu:
-1. Risk Avoidance: merupakan metode yang dilakukan dengan cara menghindari hal-hal yang menimbulkan risiko. Misalnya: demi menghindari kerugian, sebuah perusahaan memutuskan untuk tidak lagi memproduksi beberapa produk yang biaya produksinya mahal.
-2. Segregation: metode ini dilakukan dengan cara memisahkan orang atau barang yang dapat menyebabkan kerugian. Misalnya: memisahkan beberapa karyawan di perusahaan yang tengah berkonflik, entah itu memutasi mereka ke divisi atau kantor cabang lain, atau merumahkan mereka untuk sementara waktu.
-3. Loss Prevention: adalah metode manajemen risiko yang dilakukan dengan cara melakukan pencegahan terhadap suatu risiko. Misalnya: perusahaan melakukan pengecekan laporan keuangan setiap bulan, untuk mencegah terjadinya penggelapan uang perusahaan.
-4. Loss Reduction: metode ini dilakukan dengan mengurangi dampak kerugian yang terjadi pada suatu hal. Misalnya: sebuah perusahaan mengurangi biaya produksinya, supaya produksinya tidak menimbulkan kerugian.
-5. Non-Insurance Transfer: ini merupakan metode manajemen risiko yang dilakukan dengan memindahkan risiko ke pihak lain, dengan catatan bahwa pihak lain tersebut siap menanggung risikonya dan bersedia tidak diberi asuransi oleh perusahaan. Contoh: guna menghindari risiko barang produksinya pecah belah, sebuah perusahaan melemparkan risiko tersebut kepada jasa pengantar barang, dan pihak jasa pengantar barang tersebut pun sepakat melakukannya.
+  Ada dua metode dalam manajemen risiko. Pengendalian risiko dan pendanaan risiko adalah kedua metode tersebut. Kedua metode tersebut lalu terbagi lagi menjadi beberapa macam. Pengendalian risiko terbagi lagi menjadi lima macam, yaitu:
+  1. Risk Avoidance: merupakan metode yang dilakukan dengan cara menghindari hal-hal yang menimbulkan risiko. Misalnya: demi menghindari kerugian, sebuah perusahaan memutuskan untuk tidak lagi memproduksi beberapa produk yang biaya produksinya mahal.
+  2. Segregation: metode ini dilakukan dengan cara memisahkan orang atau barang yang dapat menyebabkan kerugian. Misalnya: memisahkan beberapa karyawan di perusahaan yang tengah berkonflik, entah itu memutasi mereka ke divisi atau kantor cabang lain, atau merumahkan mereka untuk sementara waktu.
+  3. Loss Prevention: adalah metode manajemen risiko yang dilakukan dengan cara melakukan pencegahan terhadap suatu risiko. Misalnya: perusahaan melakukan pengecekan laporan keuangan setiap bulan, untuk mencegah terjadinya penggelapan uang perusahaan.
+  4. Loss Reduction: metode ini dilakukan dengan mengurangi dampak kerugian yang terjadi pada suatu hal. Misalnya: sebuah perusahaan mengurangi biaya produksinya, supaya produksinya tidak menimbulkan kerugian.
+  5. Non-Insurance Transfer: ini merupakan metode manajemen risiko yang dilakukan dengan memindahkan risiko ke pihak lain, dengan catatan bahwa pihak lain tersebut siap menanggung risikonya dan bersedia tidak diberi asuransi oleh perusahaan. Contoh: guna menghindari risiko barang produksinya pecah belah, sebuah perusahaan melemparkan risiko tersebut kepada jasa pengantar barang, dan pihak jasa pengantar barang tersebut pun sepakat melakukannya.
 
 b. Tim Proyek adalah semua personel yang tergabung dalam sebuah pekerjaan proyek, Tim proyek sendiri dibagi menjadi 2, yaitu :
   1. Tim Inti / Project Office
@@ -32,41 +32,42 @@ b. Tim Proyek adalah semua personel yang tergabung dalam sebuah pekerjaan proyek
   2. Personel Fungsional
      Bertanggung jawab kepada manajer proyek dan manajer fungsional
 
-Tim Proyek berkedudukan di dua tempat yaitu :
-1. Kantor Pusat => pekerjaan pendahuluan/perencanaan, seperti ; jadwal, anggaran, desain, rekayasa, dan kegiatan purchasing
-2. Lapangan => pelaksanaan eksekusi, implementasi proyek
+  Tim Proyek berkedudukan di dua tempat yaitu :
+  1. Kantor Pusat => pekerjaan pendahuluan/perencanaan, seperti ; jadwal, anggaran, desain, rekayasa, dan kegiatan purchasing
+  2. Lapangan => pelaksanaan eksekusi, implementasi proyek
 
-Pembentukan Tim Pengembang
-Ketika mendapatkan proyek, perusahaan pengembang menyusun suatu tim pengembang yang beranggotakan orang-orang berikut sejumlah yang dibutuhkan :
-• Manajer Proyek
-• Analis/Perancang
-• Pemrogram
-• Penguji
+  Pembentukan Tim Pengembang
+  Ketika mendapatkan proyek, perusahaan pengembang menyusun suatu tim pengembang yang beranggotakan orang-orang berikut sejumlah yang dibutuhkan :
+  • Manajer Proyek
+  • Analis/Perancang
+  • Pemrogram
+  • Penguji
 
-Pertimbangan Pembetukan Tim
-• Ukuran perangkat lunak hasil proyek
-• Tingkat kesulitan masalah
-• Tingkat modularisasi masalah
-• Kualitas perangkat lunak yang diharapkan
-• Lama waktu proyek
-• Tingkat keketatan tenggat waktu
-• Intensitas komunikasi yang diperlukan
+  Pertimbangan Pembetukan Tim
+  • Ukuran perangkat lunak hasil proyek
+  • Tingkat kesulitan masalah
+  • Tingkat modularisasi masalah
+  • Kualitas perangkat lunak yang diharapkan
+  • Lama waktu proyek
+  • Tingkat keketatan tenggat waktu
+  • Intensitas komunikasi yang diperlukan
 
-Peran-peran Manajer Proyek
-• Integrator : Sebagai pihak utama dalam proyek, mengintegrasikan apa saja dan siapa saja yang terlibat untuk mencapai performansi yang ditargetkan.
-• Komunikator : Mengolah, menyaring dan menginformasikan informasi kepada stakeholder, sebagai tempat terakhir menujunya laporan, memo, permintaan, dan keluhan.
-• Decision Maker : Keputusan yang menjadi wewenangnya antara lain realokasi sumber daya, menyeimbangkan kriteria biaya, jadwal dan performansi.
-• Motivator : Mengarahkan dan menumbuhkan komitmen dari personil dengan basik berbeda terhadap tercapainya tujuan dari proyek.
-• Enterpreneur : Melakukan pengadaan dana, fasilitas, pengelolaan sumber daya, negosiasi internal dan eksternal agar proyek dapat berjalan sesuai dengan perencanaan.
-• Agen peubah : Mempelopori pemakaian ide baru, inovatif dan berusaha keras untuk mengatasi halangan untuk melakukan perubahan.
+  Peran-peran Manajer Proyek
+  • Integrator : Sebagai pihak utama dalam proyek, mengintegrasikan apa saja dan siapa saja yang terlibat untuk mencapai performansi yang ditargetkan.
+  • Komunikator : Mengolah, menyaring dan menginformasikan informasi kepada stakeholder, sebagai tempat terakhir menujunya laporan, memo, permintaan, dan keluhan.
+  • Decision Maker : Keputusan yang menjadi wewenangnya antara lain realokasi sumber daya, menyeimbangkan kriteria biaya, jadwal dan performansi.
+  • Motivator : Mengarahkan dan menumbuhkan komitmen dari personil dengan basik berbeda terhadap tercapainya tujuan dari proyek.
+  • Enterpreneur : Melakukan pengadaan dana, fasilitas, pengelolaan sumber daya, negosiasi internal dan eksternal agar proyek dapat berjalan sesuai dengan        perencanaan.
+  • Agen peubah : Mempelopori pemakaian ide baru, inovatif dan berusaha keras untuk mengatasi halangan untuk melakukan perubahan.
 
-Komunikasi Tim
-Efektifitas dan Efisiensi dipengaruhi oleh hal-hal berikut :
-• Ukuran tim
-• Struktur tim
-• Komposisi anggota tim
-• Fisik lingkukan kerja
-• Ketersediaan kanal komunikasi
+  Komunikasi Tim
+  Efektifitas dan Efisiensi dipengaruhi oleh hal-hal berikut :
+  • Ukuran tim
+  • Struktur tim
+  • Komposisi anggota tim
+  • Fisik lingkukan kerja
+  • Ketersediaan kanal komunikasi
+  
 c. Manajemen kualitas perangkat lunak ( SQM ) adalah proses manajemen yang bertujuan untuk mengembangkan dan mengelola kualitas perangkat lunak sedemikian rupa untuk memastikan bahwa produk memenuhi standar kualitas yang diharapkan oleh pelanggan sekaligus memenuhi semua persyaratan peraturan dan pengembang yang diperlukan, jika ada. Manajer kualitas perangkat lunak memerlukan perangkat lunak untuk diuji sebelum dirilis ke pasar, dan mereka melakukannya dengan menggunakan penilaian kualitas berbasis proses siklus untuk mengungkap dan memperbaiki bug sebelum dirilis. Tugas mereka tidak hanya memastikan perangkat lunak mereka dalam kondisi yang baik bagi konsumen, tetapi juga mendorong budaya kualitas di seluruh perusahaan.
 
 d. Manajemen konfigurasi perangkat lunak (SCM), yang disebut manajemen perubahan (change management) merupakan serangkaian kegiatan yang dirancang untuk mengelola perubahan dengan mengidentifikasi produk/hasil kerja yang kemungkinan besar akan mengalami perubahan, membuat hubungan di antara mereka, menentukan mekanisme untuk mengelola berbagai versi produk kerja tersebut, mengendalikan perubahan yang terjadi, dan mengaudit dan melaporkan perubahan yang dilakukan. Perubahan yang tidak terkendali akan sangat mudah membuat menjadikan project sotfware kita menjadi kacau. Akibatnya, kualitas perangkat lunak menjadi buruk dan proses delivery menjadi tertunda. Karena itu, manajemen perubahan (change management) adalah bagian penting dari manajemen mutu.
@@ -79,9 +80,9 @@ e. Aplikasi apa saja yang dikembangkan oleh JCC?
   5) Informasi ketersediaan kamar kosong tersedia di rumah sakit umum daerah dan rumah sakit umum kecamatan, informasi ini tersedia berkat kerjasama dengan dinas Kesehatan. Selain menyediakan informasi untuk warga, data tersebut juga bisa digunakan oleh Puskesmas untuk membuat rujukan pasien BPJS info ini dapat menghemat waktu, mencegah calok atau oknum yang meminta uang untuk ketersediaan kamar, tak hanya bisa melihat ketersediaan kamar kosong di rumah sakit
   6) Jakarta smart city bersama dinas kesehatan juga menyediakan informasi lokasi ambulance gratis secara real-time di portal Jakarta, untuk keperluan gawat darurat warga Jakarta dapat menghubungi call center 112 seperti 911 di US, untuk mendapatkan layanan ambulance gratis, layanan ini dikelola oleh badan penanggulangan bencana daerah atau BPBD.
 
-Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah?
-Sebelum memulai program Smart City, pastikan pemerintah dan masyarakat siap untuk menghadapi perubahan yang mungkin terjadi. Berkat kemajuan teknologi, bukanlah tidak mungkin pembekalan masyarakat dan pemerintah mengenai Smart City menjadi lebih cepat. Misalnya, dengan cara sosialisasikan kemungkinan-kemungkinan kondisi masa depan suatu kota. Media sosial dirasa paling ampuh & terjangkau karena ada sekitar 81 juta orang pengguna dan masih terus bertambah hingga 103 juta pengguna pada tahun 2023 nanti.
-Setelah pemerintah & masyarakat terbiasa dengan transformasi digital, dan penggunaan sistem informasi dalam kehidupan sehari-hari, artinya mereka siap untuk menyambut Smart City. Dengan simulasi sederhana seperti antrian online, dan pengaduan masyarakat online, pemerintah bisa mulai membuat rencana 10 tahun kedepan dan membuat skala prioritas.
+  Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah?
+  Sebelum memulai program Smart City, pastikan pemerintah dan masyarakat siap untuk menghadapi perubahan yang mungkin terjadi. Berkat kemajuan teknologi, bukanlah tidak mungkin pembekalan masyarakat dan pemerintah mengenai Smart City menjadi lebih cepat. Misalnya, dengan cara sosialisasikan kemungkinan-kemungkinan kondisi masa depan suatu kota. Media sosial dirasa paling ampuh & terjangkau karena ada sekitar 81 juta orang pengguna dan masih terus bertambah hingga 103 juta pengguna pada tahun 2023 nanti.
+  Setelah pemerintah & masyarakat terbiasa dengan transformasi digital, dan penggunaan sistem informasi dalam kehidupan sehari-hari, artinya mereka siap untuk menyambut Smart City. Dengan simulasi sederhana seperti antrian online, dan pengaduan masyarakat online, pemerintah bisa mulai membuat rencana 10 tahun kedepan dan membuat skala prioritas.
 
-Tim apa saja yang terdapat pada JCC ? 
-Data Engineer, Data Analyst, Mobile Programmer, Field Officer-Administrator.
+  Tim apa saja yang terdapat pada JCC ? 
+  Data Engineer, Data Analyst, Mobile Programmer, Field Officer-Administrator.
