@@ -1,17 +1,20 @@
 UAS MPPL
 
-Nama Kelompok
+Nama Kelompok :
 1. Nurhasanah (D1041181001)
 2. Suriati (D10411181006)
 3. Aselia Syekar Sya'bani (D1041181027)
 
-
+Soal
 a. Apa itu manajemen resiko proyek dan jelaskan salah satu metode manajemen resiko yang Anda ketahui dan berikan contoh penggunaan metode tersebut
 b. Bagaimana cara pengembangan tim proyek PL dan siapa saja tim proyek PL?
 c. Apa itu manajemen kualitas perangkat lunak?
 d. Apa itu manajemen konfigurasi proyek perangkat lunak
 e. Insight dari webinar kuliah lapangan dengan Jakarta Smart City?, aplikasi apa saja yang dikembangkan oleh JCC, tim apa saja yang terdapat pada JCC, Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah?, serta jelaskan insight lainnya yang didapatkan melalui webinar, terkait dengan manajemen proyek, maupun SDLC secara luas.
+
+
 Jawaban :
+
 a. Manajemen risiko pada proyek meliputi langkah memahami dan mengidentifikasi masalah potensial yang mungkin terjadi, mengevaluasi, memonitoring dan menangani risiko. Manajemen risiko yang proaktif artinya  menjawab bagaimana orang secara aktif berusaha mengurangi risiko serta memperbaiki tingkat probabilitas keberhasilan pelaksanaan proyek.
 Risiko merupakan kombinasi dari kemungkinan suatu kejadian dan akiat dari kejadian tersebut dengan tidak menutup kemungkinan bahwa ada lebih dari satu akibat yang mungkin terjadi untuk satu kejadian tertentu. Pada umumnya risiko dipandang daru perspektif negatif, seperti kehilangan, bahaya, kerugian, kegagalan dan lain sebagainya. Hal-hal tersebut pada prinsipnya merupakan bentuk ketidak pastian yang mestinya dipahami dan dikelola secara efektif sehingga dapat menjadi nilai tambah bagi organisasi.
 Secara umum, tujuan manajemen risiko yang utama adalah mencegah atau meminimisasi pengaruh yang tidak baik akibat kejadian yang tidak terduga melalui penghindaran risiko atau persiapan rencana kontingensi yang berkaitan dengan risiko tersebut.  Dalam manajemen proyek risiko proyek adalah suatu peristiwa atau kondisi yang tidak pasti, dan jika terjadi mempunyai pengaruh positif atau bisa juga negatif pada tujuan proyek. Suatu risiko mempunyai sebab dan bila terjadi akan membawa dampak, oleh karena itu risiko dapat dinyatakan sebagai fungsi dari kemungkinan dan dampak.
@@ -22,12 +25,12 @@ Ada dua metode dalam manajemen risiko. Pengendalian risiko dan pendanaan risiko 
 3. Loss Prevention: adalah metode manajemen risiko yang dilakukan dengan cara melakukan pencegahan terhadap suatu risiko. Misalnya: perusahaan melakukan pengecekan laporan keuangan setiap bulan, untuk mencegah terjadinya penggelapan uang perusahaan.
 4. Loss Reduction: metode ini dilakukan dengan mengurangi dampak kerugian yang terjadi pada suatu hal. Misalnya: sebuah perusahaan mengurangi biaya produksinya, supaya produksinya tidak menimbulkan kerugian.
 5. Non-Insurance Transfer: ini merupakan metode manajemen risiko yang dilakukan dengan memindahkan risiko ke pihak lain, dengan catatan bahwa pihak lain tersebut siap menanggung risikonya dan bersedia tidak diberi asuransi oleh perusahaan. Contoh: guna menghindari risiko barang produksinya pecah belah, sebuah perusahaan melemparkan risiko tersebut kepada jasa pengantar barang, dan pihak jasa pengantar barang tersebut pun sepakat melakukannya.
-b. Tim Proyek adalah semua personel yang tergabung dalam sebuah pekerjaan proyek, Tim proyek sendiri dibagi menjadi 2, yaitu :
 
-1. Tim Inti / Project Office
-Bertanggung jawab kepada manajer proyek
-2. Personel Fungsional
-Bertanggung jawab kepada manajer proyek dan manajer fungsional
+b. Tim Proyek adalah semua personel yang tergabung dalam sebuah pekerjaan proyek, Tim proyek sendiri dibagi menjadi 2, yaitu :
+  1. Tim Inti / Project Office
+     Bertanggung jawab kepada manajer proyek
+  2. Personel Fungsional
+     Bertanggung jawab kepada manajer proyek dan manajer fungsional
 
 Tim Proyek berkedudukan di dua tempat yaitu :
 1. Kantor Pusat => pekerjaan pendahuluan/perencanaan, seperti ; jadwal, anggaran, desain, rekayasa, dan kegiatan purchasing
@@ -66,12 +69,12 @@ c. Manajemen konfigurasi perangkat lunak (SCM), sering disebut juga manajemen pe
 d. Manajemen kualitas perangkat lunak ( SQM ) adalah proses manajemen yang bertujuan untuk mengembangkan dan mengelola kualitas perangkat lunak sedemikian rupa untuk memastikan bahwa produk memenuhi standar kualitas yang diharapkan oleh pelanggan sekaligus memenuhi semua persyaratan peraturan dan pengembang yang diperlukan, jika ada. Manajer kualitas perangkat lunak memerlukan perangkat lunak untuk diuji sebelum dirilis ke pasar, dan mereka melakukannya dengan menggunakan penilaian kualitas berbasis proses siklus untuk mengungkap dan memperbaiki bug sebelum dirilis. Tugas mereka tidak hanya memastikan perangkat lunak mereka dalam kondisi yang baik bagi konsumen, tetapi juga mendorong budaya kualitas di seluruh perusahaan.
 
 e. Aplikasi apa saja yang dikembangkan oleh JCC? 
-1) Pengaduan qlue salah satu aplikasi pelaporan warga yang bekerjasama dengan Pemprov DKI warga bisa melaporkan 17 kategori masalah terkait kepentingan umum seperti kemacetan parkir atau sampah di wilayah Jakarta dengan cara mengambil foto dan mengunggahnya ke aplikasi data laporan keuangan terintegrasi dan warna merah berarti laporan warga baru masuk, kuning sedang di proses dan hijau artinya laporan sudah ditangani, bukti penanganan harus ada yaitu berupa foto dari petugas dinas atau lurah terkait, integrasi CCTV warga juga dapat mengakses lebih dari 7500 secara real Time yang terletak di berbagai lokasi kantor pemerintahan jalan utama dan sebagainya, selain dari keamanan berfungsi juga untuk memantau banjir
-2) Info harga tanah kita bisa melihat harga tanah langsung dari portal Jakarta smart city, jakarta smart city bekerjasama dengan BPN provinsi Jakarta untuk mengintegrasikan data survei harga pasar tanah melalui info zona nilai tanah semakin merah warna daerah tersebut semakin tinggi nilai harga tanah, daerah dengan warna kuning memiliki harga yang lebih rendah. Informasi ini dapat dimanfaatkan warga untuk kepentingan berinvestasi dan pengembangan property
-3) Info harga pangan mereka bekerja sama dengan biro perekonomian dan PD pasar jaya untuk mengintegrasikan aplikasi info pangan, pada aplikasi ini kita bisa melihat berbagai harga bahan pangan di beberapa titik pasar tradisional dari daging ayam, cabai, sampai bawang. Harga rata-rata bahan pangan di-update setiap hari maksimal jam 10 pagi oleh petugas PD pasar jaya, informasi ini dapat digunakan oleh warga untuk membandingkan harga di berbagai pasar serta berfungsi untuk mencegah para pedagang memainkan harga mengendalikan inflasi di Jakarta
-4) Program #kakilimaJKT dinas usaha mikro kecil menengah dan perdagangan atau UMKM bersama Jakarta smart city program ini melalui kolaborasi dengan indorelawan, Zomato, GOFOOD. Program ini bertujuan untuk meningkatkan pendapatan pedagang kaki lima serta mengajak para PKL lainnya untuk bersetifikat BPOM.
-5) Informasi ketersediaan kamar kosong tersedia di rumah sakit umum daerah dan rumah sakit umum kecamatan, informasi ini tersedia berkat kerjasama dengan dinas Kesehatan. Selain menyediakan informasi untuk warga, data tersebut juga bisa digunakan oleh Puskesmas untuk membuat rujukan pasien BPJS info ini dapat menghemat waktu, mencegah calok atau oknum yang meminta uang untuk ketersediaan kamar, tak hanya bisa melihat ketersediaan kamar kosong di rumah sakit
-6) Jakarta smart city bersama dinas kesehatan juga menyediakan informasi lokasi ambulance gratis secara real-time di portal Jakarta, untuk keperluan gawat darurat warga Jakarta dapat menghubungi call center 112 seperti 911 di US, untuk mendapatkan layanan ambulance gratis, layanan ini dikelola oleh badan penanggulangan bencana daerah atau BPBD.
+  1) Pengaduan qlue salah satu aplikasi pelaporan warga yang bekerjasama dengan Pemprov DKI warga bisa melaporkan 17 kategori masalah terkait kepentingan umum seperti kemacetan parkir atau sampah di wilayah Jakarta dengan cara mengambil foto dan mengunggahnya ke aplikasi data laporan keuangan terintegrasi dan warna merah berarti laporan warga baru masuk, kuning sedang di proses dan hijau artinya laporan sudah ditangani, bukti penanganan harus ada yaitu berupa foto dari petugas dinas atau lurah terkait, integrasi CCTV warga juga dapat mengakses lebih dari 7500 secara real Time yang terletak di berbagai lokasi kantor pemerintahan jalan utama dan sebagainya, selain dari keamanan berfungsi juga untuk memantau banjir
+  2) Info harga tanah kita bisa melihat harga tanah langsung dari portal Jakarta smart city, jakarta smart city bekerjasama dengan BPN provinsi Jakarta untuk mengintegrasikan data survei harga pasar tanah melalui info zona nilai tanah semakin merah warna daerah tersebut semakin tinggi nilai harga tanah, daerah dengan warna kuning memiliki harga yang lebih rendah. Informasi ini dapat dimanfaatkan warga untuk kepentingan berinvestasi dan pengembangan property
+  3) Info harga pangan mereka bekerja sama dengan biro perekonomian dan PD pasar jaya untuk mengintegrasikan aplikasi info pangan, pada aplikasi ini kita bisa melihat berbagai harga bahan pangan di beberapa titik pasar tradisional dari daging ayam, cabai, sampai bawang. Harga rata-rata bahan pangan di-update setiap hari maksimal jam 10 pagi oleh petugas PD pasar jaya, informasi ini dapat digunakan oleh warga untuk membandingkan harga di berbagai pasar serta berfungsi untuk mencegah para pedagang memainkan harga mengendalikan inflasi di Jakarta
+  4) Program #kakilimaJKT dinas usaha mikro kecil menengah dan perdagangan atau UMKM bersama Jakarta smart city program ini melalui kolaborasi dengan indorelawan, Zomato, GOFOOD. Program ini bertujuan untuk meningkatkan pendapatan pedagang kaki lima serta mengajak para PKL lainnya untuk bersetifikat BPOM.
+  5) Informasi ketersediaan kamar kosong tersedia di rumah sakit umum daerah dan rumah sakit umum kecamatan, informasi ini tersedia berkat kerjasama dengan dinas Kesehatan. Selain menyediakan informasi untuk warga, data tersebut juga bisa digunakan oleh Puskesmas untuk membuat rujukan pasien BPJS info ini dapat menghemat waktu, mencegah calok atau oknum yang meminta uang untuk ketersediaan kamar, tak hanya bisa melihat ketersediaan kamar kosong di rumah sakit
+  6) Jakarta smart city bersama dinas kesehatan juga menyediakan informasi lokasi ambulance gratis secara real-time di portal Jakarta, untuk keperluan gawat darurat warga Jakarta dapat menghubungi call center 112 seperti 911 di US, untuk mendapatkan layanan ambulance gratis, layanan ini dikelola oleh badan penanggulangan bencana daerah atau BPBD.
 
 Bagaimana cara mereka memastikan PL yang mereka kembangkan akan digunakan oleh masyrakat maupun pemerintah?
 Sebelum memulai program Smart City, pastikan pemerintah dan masyarakat siap untuk menghadapi perubahan yang mungkin terjadi. Berkat kemajuan teknologi, bukanlah tidak mungkin pembekalan masyarakat dan pemerintah mengenai Smart City menjadi lebih cepat. Misalnya, dengan cara sosialisasikan kemungkinan-kemungkinan kondisi masa depan suatu kota. Media sosial dirasa paling ampuh & terjangkau karena ada sekitar 81 juta orang pengguna dan masih terus bertambah hingga 103 juta pengguna pada tahun 2023 nanti.
